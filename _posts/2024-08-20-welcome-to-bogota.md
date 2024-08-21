@@ -7,4 +7,4 @@ categories: bogota
 
 Bienvenidos a Bogotá, una ciudad llena de vida y cultura.
 
-![Bienvenidos](https://pixabay.com/es/photos/bogota-landscape-paisaje-bogot%C3%A1-4463698/)
+![Bienvenidos](https://cdn.pixabay.com/photo/2019/09/09/13/58/bogota-4463698_1280.jpg)
