@@ -8,4 +8,4 @@ permalink: /food/
 
 La gastronomía de Bogotá es diversa, con platos típicos como el ajiaco y la bandeja paisa.
 
-![Comida](https://cdn.pixabay.com/photo/2016/11/29/03/53/bogota-1867187_960_720.jpg)
+![Comida](https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305_640.jpg)

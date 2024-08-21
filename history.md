@@ -8,4 +8,4 @@ permalink: /history/
 
 Bogotá fue fundada el 6 de agosto de 1538 por Gonzalo Jiménez de Quesada.
 
-![Historia](https://cdn.pixabay.com/photo/2016/11/29/03/53/bogota-1867184_960_720.jpg)
+![Historia](https://cdn.pixabay.com/photo/2012/08/14/17/49/bogota-54432_640.jpg)
