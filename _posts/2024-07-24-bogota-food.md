@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring Bogotá's Food Scene"
-date: 2024-08-24 12:00:00 -0500
+date: 2024-07-24 12:00:00 -0500
 categories: food
 ---
 

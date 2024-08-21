@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top Tourist Attractions in Bogotá"
-date: 2024-08-23 12:00:00 -0500
+date: 2024-07-23 12:00:00 -0500
 categories: tourism
 ---
 

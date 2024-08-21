@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nightlife in Bogotá"
-date: 2024-08-25 12:00:00 -0500
+date: 2024-05-25 12:00:00 -0500
 categories: nightlife
 ---
 

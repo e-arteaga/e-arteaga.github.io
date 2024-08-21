@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The History of Bogotá"
-date: 2024-08-21 12:00:00 -0500
+date: 2024-07-21 12:00:00 -0500
 categories: history
 ---
 
