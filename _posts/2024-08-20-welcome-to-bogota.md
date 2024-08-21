@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Bogotá"
+title: "Bienvenido a Bogotá"
 date: 2024-08-20 12:00:00 -0500
 categories: bogota
 ---

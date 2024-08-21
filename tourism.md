@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tourism
+title: Turismo
 permalink: /tourism/
 ---
 

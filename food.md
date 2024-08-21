@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Food
+title: Comida
 permalink: /food/
 ---
 

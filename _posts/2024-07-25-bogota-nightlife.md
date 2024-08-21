@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nightlife in Bogotá"
+title: "Vida nocturna en Bogotá"
 date: 2024-05-25 12:00:00 -0500
 categories: nightlife
 ---
